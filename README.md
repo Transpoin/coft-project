@@ -1,3 +1,3 @@
 # coft-project
-This project is about making a website for giving food recommendation to users those that need help for choosing food to cook while staying at home, avoiding Covid-19. This project is created by https://github.com/Transpoin (me), https://github.com/christopherwibisono (Christopher Wibisono) and I Putu Djiorghi Pradhividya Raharja. Image Source:
+This project is about making a website for giving food recommendation to users those that need help for choosing food to cook while staying at home, avoiding Covid-19. This project is created by https://github.com/Transpoin (me), https://github.com/christopherwibisono (Christopher Wibisono) and I Putu Djiorghi Pradhividya Raharja.
 Image Source: https://indonesian.alibaba.com/product-detail/white-jasmine-rice-supplier-in-thailand-1600107080831.html, https://www.kompas.com/food/read/2020/11/23/070700875/resep-nasi-goreng-kampung-simpel-buat-sarapan, and https://id.wikipedia.org/wiki/Kecap.
